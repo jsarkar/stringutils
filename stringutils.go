@@ -6,13 +6,11 @@ import (
 )
 
 // Upper case string
-// TODO: Create some test case
 func Upper(s string) string {
 	return strings.ToUpper(s)
 }
 
 // Lower case string
-// TODO: Create some test case
 func Lower(s string) string {
 	return strings.ToLower(s)
 }
